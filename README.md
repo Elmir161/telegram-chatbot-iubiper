@@ -1,4 +1,4 @@
-# 🤖 IUBIPER — образовательный Telegram-бот на Mistral AI
+# 🤖 IUBIPER — образовательный Telegram-бот
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![aiogram](https://img.shields.io/badge/aiogram-3.x-green)
