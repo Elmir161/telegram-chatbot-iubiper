@@ -4,7 +4,7 @@
 ![aiogram](https://img.shields.io/badge/aiogram-3.x-green)
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-API-orange)
 
-> Дипломный проект студента группы К4И2 Мамедова Эльмира
+> Дипломный проект студента группы К4И2 Мамедова Эльмира Хагани Оглы
 
 ## 📌 О проекте
 
